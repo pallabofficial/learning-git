@@ -1,2 +1,2 @@
 # learning git
-yeah all
+yeah all the
